@@ -1,5 +1,11 @@
 # Keystone: An Open-Source Secure Enclave Framework for RISC-V Processors
 
+**This project is currently transitioning to Emeritus stage of the [https://github.com/confidential-computing/governance/blob/main/project-progression-policy.md](CCC project policy).**
+
+Keystone is no longer under active development. Thank you to everyone
+who has contributed to and built on Keystone in the past.
+
+
 ![Documentation Status](https://readthedocs.org/projects/keystone-enclave/badge/)
 [![Build Status](https://travis-ci.org/keystone-enclave/keystone.svg?branch=master)](https://travis-ci.org/keystone-enclave/keystone/)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8916/badge)](https://www.bestpractices.dev/projects/8916)
@@ -24,21 +30,11 @@ Keystone is a free and open framework for architecting and deploying TEEs on RIS
 
 ## Status
 
-Keystone started as an academic project that helps researchers to build and test their ideas. 
-Now, Keystone is an **Incubation Stage** open-source project of the Confidential Computing Consortium (CCC) under the Linux Foundation. 
+Keystone is no longer under active development or maintenance.
 
+Keystone started as an academic project that helps researchers to build and test their ideas. Keystone then transitioned to an open-source project of the Confidential Computing Consortium (CCC) under the Linux Foundation.
 Keystone has helped many researchers focus on their creative ideas instead of building TEE by themselves from scratch.
 This resulted in many innovative research projects and publications, which have been pushing the technical advancement of TEEs.
-
-We are currently trying to make Keystone production-ready. You can find the latest general roadmap of Keystone [here](https://docs.google.com/document/d/1AxT0w6NCtfvZcFE1wbZAkAODftqRYhpHaj63mvnQQqA/edit?usp=sharing)
-
-Here are some ongoing and/or planned efforts towards the goal:
-
-* **Technical Improvements**: Make Keystone more usable and on par with existing industry solutions, including memory isolation improvement, better application and hardware support, and additional features.
-
-* **Parity with Industry Standards**: Make Keystone follow the industry standard. This includes standard cryptography, measured boot, and remote attestation protocols. 
-
-* **Hardware Integration**: Partner with RISC-V hardware designer/vendor to fully integrate with the hardware. This includes integration with hardware root-of-trust, memory encryption engine, and crypto accelerators.
 
 ## Documentation
 
