@@ -1,6 +1,6 @@
 # Keystone: An Open-Source Secure Enclave Framework for RISC-V Processors
 
-**This project is currently transitioning to Emeritus stage of the [https://github.com/confidential-computing/governance/blob/main/project-progression-policy.md](CCC project policy).**
+**This project is currently transitioning to Emeritus stage of the [CCC project policy](https://github.com/confidential-computing/governance/blob/main/project-progression-policy.md).**
 
 Keystone is no longer under active development. Thank you to everyone
 who has contributed to and built on Keystone in the past.
